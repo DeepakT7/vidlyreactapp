@@ -10,6 +10,8 @@ const Pagination = props => {
 
 
     return (
+
+        
     <nav>
         <ul className="pagination">
             { pages.map(page => (
